@@ -1,9 +1,4 @@
 # QA Test Strategy Framework
-
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
-[![Last Update](https://img.shields.io/github/last-commit/rennanreis/qa-test-strategy-framework)](https://github.com/rennanreis/qa-test-strategy-framework/commits/main)
-
 > **Note:** This project is intended for personal portfolio purposes. External contributions (pull requests, issues) are not being accepted at this time.
 
 A practical framework for data quality test strategy, featuring ISTQB-based templates, real-world examples (using Sauce Labs demo site), and defect management best practices for Agile teams.
